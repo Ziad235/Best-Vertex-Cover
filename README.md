@@ -1,5 +1,5 @@
 # Best_Vertex_Cover
-The two Python programs use the Iterative Deepening and Simple Hill Climbing (with "random" restarts) algorithms to find solutions for the Best Vertex Cover Problem.  
+The two Python programs use the Iterative Deepening and Simple Hill-Climbing (with "random" restarts) algorithms to find solutions for the Best Vertex Cover Problem.  
 These programs utilize the concept of state spaces as models on which the algorithms work.  
 The Best Vertex Cover problem is as follows:
 - Input: An undirected graph G, in which each vertex is marked by a positive cost, and a total budget T.
@@ -16,5 +16,5 @@ The Best Vertex Cover problem is as follows:
 Blank line
 - Each edge: the names of the two ends. 1 per line.
 
-_You can oepn the "test.txt" file to see how the input format should look like._  
+_You can open the "HC_Data.txt" (for Hill-Climbing) and "ID_Data.txt" (for Iterative Deepening) files to see how the input format should look like._  
 _Note: Make sure there is no endline (\n) after the last line of the input file to avoid program error._
