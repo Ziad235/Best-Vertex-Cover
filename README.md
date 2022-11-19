@@ -7,7 +7,7 @@ The Best Vertex Cover problem is as follows:
 
 #### How to run programs:
 - Make sure Python3 is installed.
-- Run the program on the terminal using "python3 <program_name>.py".
+- Run the program on the terminal using "python3 <_program_name_>.py".
 - Make sure the text file where the program is getting its input from is within the same directory the program is running in.
 
 ### Below is the format in which the input file must be in, in order for the program to run correctly:
